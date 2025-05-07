@@ -14,7 +14,7 @@
   - **Aplicativos prontos** acessados via navegador.  
   - Exemplos: Gmail, Salesforce, Zoom.  
 
-## **Modelo de Responsabilidade Compartilhada  
+## **Modelo de Responsabilidade Compartilhada** 
 
 ### **IaaS**  
 - **Provedor:** Responsável pelo hardware físico, rede e data centers.  
