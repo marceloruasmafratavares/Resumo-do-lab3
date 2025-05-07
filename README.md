@@ -14,8 +14,6 @@
   - **Aplicativos prontos** acessados via navegador.  
   - Exemplos: Gmail, Salesforce, Zoom.  
 
----
-
 ## **Modelo de Responsabilidade Compartilhada  
 
 ### **IaaS**  
@@ -29,8 +27,6 @@
 ### **SaaS**  
 - **Provedor:** Cuida de tudo (infraestrutura, atualizações, segurança do software).  
 - **Cliente:** Apenas gerencia acesso de usuários e permissões.  
-
----
 
 ## **Casos de Uso para Cada Serviço**  
 
